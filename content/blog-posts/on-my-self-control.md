@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-05T16:00:00Z
-draft = true
 hero = "/images/food-photographer-jennifer-pallian-OfdDiqx8Cz8-unsplash.jpg"
 title = "On my self-control"
 type = "blog"

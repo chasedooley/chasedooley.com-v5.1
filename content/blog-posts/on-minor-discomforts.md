@@ -1,6 +1,6 @@
 +++
 author = "Chase Dooley"
-date = 2020-01-15T16:00:00Z
+date = 2020-01-15T16:01:00Z
 draft = true
 hero = "/images/sharon-mccutcheon-Th_WZMUPnO4-unsplash.jpg"
 title = "On minor discomforts"

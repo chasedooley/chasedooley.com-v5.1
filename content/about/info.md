@@ -8,7 +8,7 @@ contact_info:
   email: chase@chasedooley.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
-  medium_handle: "@chasedooley"
+  medium_handle: chasedooley
   linkedin_handle: dooleychase
 type: ''
 

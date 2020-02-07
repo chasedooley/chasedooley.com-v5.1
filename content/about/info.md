@@ -11,7 +11,7 @@ contact_info:
 type: ''
 
 ---
-## Chase Dooley is studying philosophy and writing essays in Colorado.
+# Chase Dooley is studying philosophy and writing essays in Colorado.
 
 Born and raised in Florida, I moved to Iowa in 2016 to attend university. I lived there for two years, learning how to survive on my own.
 

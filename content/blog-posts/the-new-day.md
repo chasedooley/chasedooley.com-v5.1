@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2019-11-01T15:00:00Z
-draft = true
 hero = "/images/max-di-capua-AhHICglxxx8-unsplash.jpg"
 title = "The New Day"
 type = "blog"

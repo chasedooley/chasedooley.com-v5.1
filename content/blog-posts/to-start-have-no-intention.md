@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2019-11-25T16:00:00Z
-draft = true
 hero = "/images/anomaly-oRskqiH7FNc-unsplash.jpg"
 title = "To start, have no intention"
 type = "blog"

@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-01-01T16:00:00Z
-draft = true
 hero = "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 title = "With Fear and Awareness"
 type = "blog"

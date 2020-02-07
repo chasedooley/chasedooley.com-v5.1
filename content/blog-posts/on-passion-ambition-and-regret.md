@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2019-11-17T16:00:00Z
-draft = true
 hero = "/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 title = "On passion, ambition, and regret"
 type = "blog"

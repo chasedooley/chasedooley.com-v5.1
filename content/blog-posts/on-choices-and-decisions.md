@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2019-11-20T16:00:00Z
-draft = true
 hero = "/images/davisco-5E5N49RWtbA-unsplash.jpg"
 title = "On choices and decisions"
 type = "blog"

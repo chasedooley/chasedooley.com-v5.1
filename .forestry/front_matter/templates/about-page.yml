@@ -17,17 +17,17 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: twitter_handle
+  - name: medium_handle
     type: text
     config:
       required: false
-    label: Twitter Handle
     description: Enter Twitter Handle Here
-  - name: github_handle
+    label: Medium Handle
+  - name: linkedin_handle
     type: text
     config:
       required: false
-    label: Github Handle
+    label: LinkedIn Handle
     description: Enter github handle here
   - name: email
     type: text

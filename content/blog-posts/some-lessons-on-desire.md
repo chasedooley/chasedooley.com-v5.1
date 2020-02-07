@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-01-21T16:00:00Z
-draft = true
 hero = "/images/mateus-campos-felipe-BElf8dj0rk8-unsplash.jpg"
 title = "Some lessons on desire"
 type = "blog"

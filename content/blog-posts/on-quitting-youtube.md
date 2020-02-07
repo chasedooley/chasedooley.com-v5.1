@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-07T16:00:00Z
-draft = true
 hero = "/images/leon-bublitz-uDTzfsGJihw-unsplash.jpg"
 title = "On quitting YouTube"
 type = "blog"

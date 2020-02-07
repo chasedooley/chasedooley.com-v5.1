@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-01-11T16:00:00Z
-draft = true
 hero = "/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg"
 title = "On precise goals"
 type = "blog"

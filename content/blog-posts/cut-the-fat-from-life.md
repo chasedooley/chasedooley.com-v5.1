@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-01-16T16:00:00Z
-draft = true
 hero = "/images/emerson-vieira-lanootd2FcU-unsplash.jpg"
 title = "Cut the fat from life"
 type = "blog"

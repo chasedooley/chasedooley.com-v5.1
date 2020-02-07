@@ -1,7 +1,7 @@
 +++
 author = "Chase Dooley"
 date = 2020-01-18T16:00:00Z
-hero = ""
+hero = "/images/national-cancer-institute-J28Nn-CDbII-unsplash.jpg"
 title = "All or Nothing"
 type = "blog"
 

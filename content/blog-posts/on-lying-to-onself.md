@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-01-27T16:00:00Z
-draft = true
 hero = "/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 title = "On lying to onself"
 type = "blog"

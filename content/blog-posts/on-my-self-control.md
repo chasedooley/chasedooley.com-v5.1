@@ -27,4 +27,4 @@ It’s likely, as well, that I won’t die from obesity-related diseases from ea
 
 I do not want to die because of heart failure, and I do not want to fail because of a lack of self-discipline. So, then, I will quit those habits today — for good. Cold turkey, is the only way. No more junk food: I will not buy it for myself nor will I make it. If it enters the house, I will not eat it. If I am tempted, I will resolutely refuse. I will honor my future self, and my past self who was not as strong, with these decisions, and when it gets hard, I will remember what I’ve reasoned here. I will not give in. I will continue to strengthen my resolve so that my future self can accomplish that which he cares for the most.
 
-_Photo by_ [_Jennifer Pallian_](https://unsplash.com/@foodess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText "Jennifer Pallian on Unplash") _on Unplash._
+###### _Photo by_ [_Jennifer Pallian_](https://unsplash.com/@foodess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText "Jennifer Pallian on Unplash") _on Unplash._

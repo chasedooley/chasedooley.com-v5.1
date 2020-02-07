@@ -1,6 +1,6 @@
 +++
 author = "Chase Dooley"
-date = 0201-11-25T15:50:44Z
+date = 2019-11-26T15:50:00Z
 hero = "/images/jeremy-bishop-EwKXn5CapA4-unsplash.jpg"
 title = "On Life"
 type = "blog"

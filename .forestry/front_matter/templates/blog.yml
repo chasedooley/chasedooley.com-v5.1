@@ -31,6 +31,7 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/cut-the-fat-from-life.md
 - content/blog-posts/on-careers.md
 - content/blog-posts/on-choices-and-decisions.md
 - content/blog-posts/on-life.md

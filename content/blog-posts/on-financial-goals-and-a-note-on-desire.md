@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-08T15:00:00Z
-draft = true
 hero = "/images/travis-essinger-cjeThQtJpaw-unsplash.jpg"
 title = "On financial goals, and a note on desire"
 type = "blog"

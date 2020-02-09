@@ -101,3 +101,15 @@ ul {
   list-style: none;
   margin: 0;
 }
+
+hr:before {
+ content: "***";
+ letter-spacing: 0.2em
+}
+
+hr {
+  margin: 1.5rem 0;
+  color: $default-color;
+  border: 0;
+  text-align: center;
+}

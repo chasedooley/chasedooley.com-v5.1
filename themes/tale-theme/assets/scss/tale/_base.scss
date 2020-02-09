@@ -108,10 +108,10 @@ hr:before {
 }
 
 hr {
-  margin: 1.5rem 0;
-  color: $default-color;
+  margin: 1.5rem 0 0 0;
+  color: #464646;
   border: 0;
   text-align: center;
   background: 0;
-  height: default;
+  height: inherit;
 }

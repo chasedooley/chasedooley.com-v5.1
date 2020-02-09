@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-09T14:45:00Z
-draft = true
 hero = "/images/seb-atkinson-2fD88YNO4EE-unsplash.jpg"
 title = "A planned life is a good life"
 type = "blog"

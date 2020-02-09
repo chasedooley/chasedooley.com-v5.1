@@ -82,9 +82,13 @@ p {
 
 a {
   text-decoration: none;
-  color: blue;
+  color: inherit;
   opacity: 1;
   transition: opacity .2s ease;
+}
+
+.post a {
+  color: blue;
 }
 
 a:hover {

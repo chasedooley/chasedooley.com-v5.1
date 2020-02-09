@@ -32,4 +32,10 @@
 
 		<!-- RSS -->
 		<link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	
+<!-- 		<!-- PIIO -->
+		<link rel="preconnect" href="//pcdn.piiojs.com">
+
+		<link rel="preload" as="script" href="//js.piio.co/[domain key]/piio.min.js">
+
 	</head>

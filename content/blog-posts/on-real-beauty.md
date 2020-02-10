@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-10T14:50:00Z
-draft = true
 hero = "/images/andres-herrera-o-76B2bskcc-unsplash.jpg"
 title = "On real beauty"
 type = "blog"

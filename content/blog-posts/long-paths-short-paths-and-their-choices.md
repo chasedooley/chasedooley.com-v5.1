@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-11T14:05:00Z
-draft = true
 hero = "/images/nathan-dumlao-f6UmholR_I4-unsplash.jpg"
 title = "Long Paths, Short Paths, and their Choices"
 type = "blog"

@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-12T14:00:00Z
-draft = true
 hero = "/images/ian-dooley-DJ7bWa-Gwks-unsplash.jpg"
 title = "How I'm Productive"
 type = "blog"

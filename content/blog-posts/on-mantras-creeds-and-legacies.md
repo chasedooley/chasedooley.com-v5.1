@@ -47,3 +47,5 @@ My legacy is an attempt at clarity for the future. By knowing what is ahead, wha
 And of course, know that your legacy is not fixed until you die. I may find in the future that what I thought as the philosophy of life was a little different, and made changes to it. That's expected. The point is not to exactly define your life, but to plan for it; to know what you want and need to do, so that you do those things.
 
 The point of having a creed, a legacy statement, and a collection of mantras is to reduce your suffering so that you can accomplish more from your life. So that you can, through your work, complete your duties as a human being. This is what anyone can hope to do in their life, and by having these tools, I believe one can do achieve those aims.
+
+_Photo by_ [_Clay Banks on Unsplash_](https://unsplash.com/@claybanks "Clay Banks on Unsplash")_._

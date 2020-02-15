@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-15T14:00:00Z
-draft = true
 hero = "/images/clay-banks-VH5T-OGbNDQ-unsplash.jpg"
 title = "On Mantras, Creeds, and Legacies"
 type = "blog"

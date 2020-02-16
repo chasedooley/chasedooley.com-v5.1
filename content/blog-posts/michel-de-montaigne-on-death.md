@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-16T14:45:00Z
-draft = true
 hero = "/images/scott-rodgerson-ZLHBjxbCCEc-unsplash.jpg"
 title = "Michel de Montaigne on Death"
 type = "blog"

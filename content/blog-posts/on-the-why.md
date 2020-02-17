@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-02-17T13:45:00Z
-draft = true
 hero = "/images/gilberto-olimpio-lTvGVCeC_E0-unsplash.jpg"
 title = "On The Why"
 type = "blog"

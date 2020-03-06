@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-03-06T14:30:00Z
-draft = true
 hero = "/images/olivier-guillard-FKJgBUDoVC0-unsplash.jpg"
 title = "Commentary on \"Self-Reliance\""
 type = "blog"
@@ -17,7 +16,7 @@ With that said, I like what the Domino Project attempted. I think it's a valuabl
 
 ***
 
-> **Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events.**
+> **"Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events."**
 
 The iron string is the trust in yourself, and what Emerson means by it is that what you accomplish in life depends on whether or not you trust yourself. Domino Project includes this quote from Henry Ford, "If you think you can do it, or you think you can't do it, you are right." It's true, and a nice summation of Emerson's point. Doing your great work depends on you and your trust for yourself. If you do not trust yourself, then you will not accomplish the work you were destined to create. If you do, then you will have the courage to work through hardships and complete your great work.
 
@@ -31,9 +30,9 @@ To love fate is to give into it freely, to stop chasing shadow callings and to p
 
 ***
 
-> **But the man is, as it were, clapped into jail by his consciousness. As soon as he has once acted or spoken with eclat \[great brilliance\], he is a committed person, watched by the sympathy or the hatred of hundreds, whose affections must not enter into his account. There is no Lethe for this. Ah, that he could pass again into his neutrality! Who can thus avoid all pledges, and having observed, observe again from the same unaffected, unbiased, unbribable, unfrightened innocence, must always be formidable. He would utter opinions on all passing affairs, which being seen to be not private, but necessary, would sink like darts into the ear of men, and put them in fear.**
+> **"But the man is, as it were, clapped into jail by his consciousness. As soon as he has once acted or spoken with eclat \[great brilliance\], he is a committed person, watched by the sympathy or the hatred of hundreds, whose affections must not enter into his account. There is no Lethe for this. Ah, that he could pass again into his neutrality! Who can thus avoid all pledges, and having observed, observe again from the same unaffected, unbiased, unbribable, unfrightened innocence, must always be formidable. He would utter opinions on all passing affairs, which being seen to be not private, but necessary, would sink like darts into the ear of men, and put them in fear.**
 >
-> **These are the voices which we hear in solitude, but they grow faint and inaudible as we enter into the world. Society everywhere is in conspiracy against the manhood of every one of its members.**
+> **These are the voices which we hear in solitude, but they grow faint and inaudible as we enter into the world. Society everywhere is in conspiracy against the manhood of every one of its members."**
 
 Emerson is saying that we become our own, and as such, affected by the outside forces of Society, when we first begin to speak or act from our own — when we "once acted or spoke with eclat," meaning that we employ our unique brilliance of display. We begin to become who we are, and not a reflection of our parents, siblings, friends, etc. We begin to express our unique characters.
 
@@ -51,7 +50,7 @@ It's our fault for allowing these things to addict us. We wanted Facebook and Yo
 
 ***
 
-> **Good and bad are but names very readily transferable to that or this; the only right is what is after my constitution, the only wrong what is against it. A man is to carry himself in the presence of all opposition, as if everything were titular and ephemeral but he.**
+> **"Good and bad are but names very readily transferable to that or this; the only right is what is after my constitution, the only wrong what is against it. A man is to carry himself in the presence of all opposition, as if everything were titular and ephemeral but he."**
 
 To this quote, the Domino Project offers a quote of theirs, saying to "Follow your heart." I suppose that is one interpretation of Emerson's quote, but I think it's wrong. It goes against the fundamental point Emerson is trying to make: not to "follow your heart," but to follow your reason! I think most philosophers since ancient times have said to follow your reason where your heart, or your emotions, would chance lead you astray. Our emotions are what compromised us into our non-self-reliant ways, and is the source of our troubles. We should cultivate our minds for our ability to reason well whether something is good or bad, to our constitution, to our own beliefs. Marcus Aurelius said our first duty as a person is to be rational, and I think he had this point in mind.
 
@@ -61,7 +60,7 @@ Remember this: to use our minds for its intended purpose is to use our rational 
 
 ***
 
-> **A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall.**
+> **"A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall."**
 
 A foolish consistency is a bad habit — doing the same thing because "that's how it's always been done" or "I have invested so much into it" or for some other reason. It's easier to continue down the wrong path than to stop and ask ourselves if it is helping or hindering us, but that's what we need to do. We need to ask often whether we're doing the right things for the right reasons because it is easy to waste our lives doing the wrong things for the wrong reasons.
 
@@ -69,13 +68,13 @@ What foolish consistency does is widdle a person's autonomy away: before long, t
 
 ***
 
-> **We pass for what we are. Character teaches above our wills. Men imagine that they communicate their virtue or vice only by overt actions, and do not see that virtue or vice emit a breath every moment. ... Your genuine action will explain itself, and will explain your other genuine actions. Your conformity explains nothing. Act singly, and what you have already done singly will justify you now. Greatness appeals to the future.**
+> **"We pass for what we are. Character teaches above our wills. Men imagine that they communicate their virtue or vice only by overt actions, and do not see that virtue or vice emit a breath every moment. ... Your genuine action will explain itself, and will explain your other genuine actions. Your conformity explains nothing. Act singly, and what you have already done singly will justify you now. Greatness appeals to the future."**
 
 Virtue and vice are not a choice, but rather a fundament of one's character. Whether one has virtue or vice is dependent on their character, and it is through their character that they act. That is, their genuine actions reveal their character, and subsequently, their virtue and vice. This is the principle behind the saying, "Actions speak louder than words," because words can be manipulated, whereas one's actions come directly from their character. Someone who has self-reliance is noticeably different from others in their actions.
 
 ***
 
-> **\[t\]hat a true man belongs to no other time or place, but is the centre of things. Where he is, there is nature. He measures you, and all men, and all events. ... The man must be so much, that he must make all circumstances indifferent. Every true man is a cause, a country, and an age; requires infinite spaces and numbers and time fully to accomplish his design; and posterity seem to follow his steps as a train of clients. ... A man Caesar is born, and for ages after we have a Roman Empire. Christ is born, and millions of minds so grow and cleave to his genius, that he is confounded with virtue and the possible of man. An institution is the lengthened shadow of one man; ... all history resolves itself very easily into the biography of a few stout and earnest persons.**
+> **"\[t\]hat a true man belongs to no other time or place, but is the centre of things. Where he is, there is nature. He measures you, and all men, and all events. ... The man must be so much, that he must make all circumstances indifferent. Every true man is a cause, a country, and an age; requires infinite spaces and numbers and time fully to accomplish his design; and posterity seem to follow his steps as a train of clients. ... A man Caesar is born, and for ages after we have a Roman Empire. Christ is born, and millions of minds so grow and cleave to his genius, that he is confounded with virtue and the possible of man. An institution is the lengthened shadow of one man; ... all history resolves itself very easily into the biography of a few stout and earnest persons."**
 
 Someone with self-reliance and authenticity is the mover of the world; all those who are great have had those two characteristics, be from the ancient world such as Caesar and Jesus or the modern world with Martin Luther King and Steve Jobs. To say that "where he is, there is nature," is to say that the self-reliant and authentic person is the ultimate form of a natural human being. I think that is true.
 
@@ -85,7 +84,7 @@ And then they have legacies. Few can mention or discuss Apple, Inc. without ment
 
 ***
 
-> **Let a man know his worth, and keep things under his feet. ... \[it\] symbolizes so well the state of man, who is in the world a sort of sot, but now and then wakes up, exercises his reason, and finds himself a true prince.**
+> **"Let a man know his worth, and keep things under his feet. ... \[it\] symbolizes so well the state of man, who is in the world a sort of sot, but now and then wakes up, exercises his reason, and finds himself a true prince."**
 
 We become "princes" or "godly men" when we wake up from our stupor, from a nightmare that we lack some element to do great work akin to what others have done. 
 
@@ -99,9 +98,9 @@ We all have what it takes to do our work and bring our contributions to the worl
 
 ***
 
-> **The intellect is vagabond, and our system of education fosters restlessness. Our minds travel when our bodies are forced to stay at home. We imitate; and what is imitation but the travelling of the mind? ...**
+> **"The intellect is vagabond, and our system of education fosters restlessness. Our minds travel when our bodies are forced to stay at home. We imitate; and what is imitation but the travelling of the mind? ...**
 >
-> **Insist on yourself; never imitate. Your own gift you can present every moment with the cumulative force of a whole life’s cultivation; but of the adopted talent of another, you have only an extemporaneous, half possession. That which each can do best, none but his Maker can teach him.**
+> **Insist on yourself; never imitate. Your own gift you can present every moment with the cumulative force of a whole life’s cultivation; but of the adopted talent of another, you have only an extemporaneous, half possession. That which each can do best, none but his Maker can teach him."**
 
 Imitation is a step in one's learning: the pupil is the imitation of their master. But the pupil must know when to insist on themselves; they must know when the master can no longer teach them. That what is left for them to learn cannot be taught: it must be cultivated internally. The master of Shakespeare is not the one who gave us _Hamlet._ That came from Shakespeare after he insisted on himself and after he found that his masters could no longer teach him.
 
@@ -111,7 +110,7 @@ Know this: great works never come from a pupil. Nothing great comes from imitati
 
 ***
 
-> **Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles.**
+> **"Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles."**
 
 No external good can bring you peace; you must find it within yourself. We are externalized such that we believe in "magical somethings" that can solve all our problems, but such things don't exist. Nothing has that magical power: we gain and gain and find ourselves no better. This consumption is endorsed by consumer culture. It is no wonder why we bounce from things to things, looking for a better thing to suck dry like vampires of happiness.
 

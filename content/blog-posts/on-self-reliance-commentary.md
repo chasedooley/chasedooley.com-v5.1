@@ -116,8 +116,4 @@ No external good can bring you peace; you must find it within yourself. We are e
 
 But just look inside and you'll find peace there behind pain, mazes, shadows, black clouds, and silver linings. Once we've tapped ourselves again, then we can uphold our principles and Virtues. From there, all else grows and betters.
 
-***
-
-[You can read Emerson's full essay, as well as all of his others, for free from the Gutenberg Project.]()
-
 _Photo by_ [_Olivier Guillard_](https://unsplash.com/@olivier_twwli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/cabin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_._

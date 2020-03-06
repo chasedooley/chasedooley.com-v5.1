@@ -120,3 +120,5 @@ But just look inside and you'll find peace there behind pain, mazes, shadows, bl
 ***
 
 [You can read Emerson's full essay, as well as all of his others, for free from the Gutenberg Project.]()
+
+_Photo by_ [_Olivier Guillard_](https://unsplash.com/@olivier_twwli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/s/photos/cabin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_._

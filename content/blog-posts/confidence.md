@@ -1,7 +1,6 @@
 +++
 author = "Chase Dooley"
 date = 2020-03-20T16:45:00Z
-draft = true
 hero = "/images/dulcey-lima-jJf63GP8qjw-unsplash.jpg"
 title = "Confidence"
 type = "blog"
